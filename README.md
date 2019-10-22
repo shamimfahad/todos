@@ -1,1 +1,1 @@
-# todos
+# simple todo app in javaScript
